@@ -1,0 +1,10 @@
+CAMPO: codice  TIPO: integer  DESCRIZIONE: codice
+CAMPO: descrizione  TIPO: character varying  DESCRIZIONE: descrizione
+CAMPO: indirizzo  TIPO: character varying  DESCRIZIONE: indirizzo
+CAMPO: telefono  TIPO: character varying  DESCRIZIONE: telefono
+CAMPO: titolare  TIPO: character varying  DESCRIZIONE: titolare
+CAMPO: turni  TIPO: character varying  DESCRIZIONE: turni
+CAMPO: the_geom  TIPO: USER-DEFINED  DESCRIZIONE: geometria
+CAMPO: gid  TIPO: integer  DESCRIZIONE: gid
+CAMPO: dataini  TIPO: date  DESCRIZIONE: data inizio
+CAMPO: dataend  TIPO: date  DESCRIZIONE: data fine
